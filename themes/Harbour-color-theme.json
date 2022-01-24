@@ -1,9 +1,9 @@
 {
-	"name": "Alpine",
+	"name": "Harbour",
 	"type": "light",
 	"colors": {
-		"editor.background": "#f5f5f5",
-		"editor.foreground": "#333333",
+		"editor.background": "#c8dddd",
+		"editor.foreground": "#ff0000",
         "list.activeSelectionIconForeground": "#fff"
 	},
 	"tokenColors": [

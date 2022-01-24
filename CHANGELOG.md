@@ -1,9 +1,8 @@
 # Change Log
-
-All notable changes to the "alpine" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
 ## [Unreleased]
+
+## [1.0.0] - 2022-01-24
+### init
+- Started first steps in creating this theme! (how exciting)
 
 - Initial release

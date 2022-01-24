@@ -1,6 +1,6 @@
 {
-    "name": "alpine",
-    "displayName": "Alpine",
+    "name": "harbour",
+    "displayName": "Harbour",
     "description": "A fresh color theme",
     "version": "0.0.1",
     "engines": {
@@ -12,9 +12,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Alpine",
+                "label": "Harbour",
                 "uiTheme": "vs",
-                "path": "./themes/Alpine-color-theme.json"
+                "path": "./themes/Harbour-color-theme.json"
             }
         ]
     }

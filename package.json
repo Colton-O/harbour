@@ -1,0 +1,21 @@
+{
+    "name": "alpine",
+    "displayName": "Alpine",
+    "description": "A fresh color theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Alpine",
+                "uiTheme": "vs",
+                "path": "./themes/Alpine-color-theme.json"
+            }
+        ]
+    }
+}

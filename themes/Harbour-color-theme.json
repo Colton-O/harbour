@@ -2,13 +2,13 @@
 	"name": "Harbour",
 	"type": "light",
 	"colors": {
-		"editor.background": "#c6d5e0",
+		"editor.background": "#bbc3d8",
 		"editor.foreground": "#00a58f",
         "list.activeSelectionIconForeground": "#ff0000",
-		"sideBar.background": "#d0dce4",
-		"sideBar.foreground": "#408f8f",
-		"activityBar.background": "#dfe8eb",
-		"activityBar.foreground": "#06a4af"
+		"sideBar.background": "#B7BFD3",
+		"sideBar.foreground": "#0D5EA0",
+		"activityBar.background": "#A1BCCF",
+		"activityBar.foreground": "#ffffff"
 		
 	},
 	"tokenColors": [
@@ -20,7 +20,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#91a0a1"
+				"foreground": "#ffffff"
 			}
 		},
 		{
@@ -250,7 +250,7 @@
 				"support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#AB6526"
+				"foreground": "#6d5348"
 			}
 		},
 		{
@@ -334,7 +334,7 @@
 			"name": "Markup: Heading",
 			"scope": "markup.heading",
 			"settings": {
-				"foreground": "#AA3731"
+				"foreground": "#ff0d00"
 			}
 		},
 		{
@@ -348,7 +348,7 @@
 			"name": "Markup: Traceback",
 			"scope": "markup.traceback",
 			"settings": {
-				"foreground": "#660000"
+				"foreground": "#ff0000"
 			}
 		},
 		{
@@ -387,7 +387,7 @@
 			"scope": "markup.inline.raw",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#AB6526"
+				"foreground": "#ff0000"
 			}
 		},
 		{

@@ -3,7 +3,7 @@
 	"type": "light",
 	"colors": {
 		"editor.background": "#A1BCCF",
-		"editor.foreground": "#a1cfcb",
+		"editor.foreground": "#0b8f8f",
         "list.activeSelectionIconForeground": "#faeded",
 		"sideBar.background": "#90b0c6",
 		"sideBar.foreground": "#0D5EA0",

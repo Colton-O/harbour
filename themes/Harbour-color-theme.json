@@ -3,13 +3,20 @@
 	"type": "light",
 	"colors": {
 		"editor.background": "#A1BCCF",
-		"editor.foreground": "#0b8f8f",
+		"editor.foreground": "#215858",
         "list.activeSelectionIconForeground": "#faeded",
-		"sideBar.background": "#90b0c6",
+		"sideBar.background": "#a8c2d4",
 		"sideBar.foreground": "#0D5EA0",
 		"activityBar.background": "#A1BCCF",
-		"activityBar.foreground": "#ffffff"
-		//test 
+		"activityBar.foreground": "#ffffff",
+		"panel.background": "#95b2c7",
+		"panel.border": "#0D5EA0",
+		"editorGroupHeader.tabsBackground": "#a8cdd4",
+		"editorGroupHeader.tabsBorder": "#ffffff",
+		"tab.activeBackground": "#70aeb6"
+
+		
+				//test 
 	},
 	"tokenColors": [
 		{
@@ -38,7 +45,7 @@
 				"comment.block.documentation"
 			],
 			"settings": {
-				"foreground": "#448C27"
+				"foreground": "#8e9b89"
 			}
 		},
 		{
@@ -52,7 +59,7 @@
 			"name": "Operators",
 			"scope": "keyword.operator",
 			"settings": {
-				"foreground": "#777777"
+				"foreground": "#977966"
 			}
 		},
 		{
@@ -72,7 +79,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#7e67b3"
+				"foreground": "#7175a1"
 			}
 		},
 		{
@@ -176,7 +183,7 @@
 			"name": "Punctuation",
 			"scope": "punctuation",
 			"settings": {
-				"foreground": "#777777"
+				"foreground": "#977966"
 			}
 		},
 		{

@@ -2,14 +2,14 @@
 	"name": "Harbour",
 	"type": "light",
 	"colors": {
-		"editor.background": "#bbc3d8",
+		"editor.background": "#cfd4e0",
 		"editor.foreground": "#00a58f",
         "list.activeSelectionIconForeground": "#ff0000",
 		"sideBar.background": "#B7BFD3",
 		"sideBar.foreground": "#0D5EA0",
 		"activityBar.background": "#A1BCCF",
 		"activityBar.foreground": "#ffffff"
-		
+		//test 
 	},
 	"tokenColors": [
 		{
@@ -20,7 +20,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#ffffff"
+				"foreground": "#747474"
 			}
 		},
 		{

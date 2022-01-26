@@ -2,10 +2,10 @@
 	"name": "Harbour",
 	"type": "light",
 	"colors": {
-		"editor.background": "#cfd4e0",
-		"editor.foreground": "#00a58f",
-        "list.activeSelectionIconForeground": "#ff0000",
-		"sideBar.background": "#B7BFD3",
+		"editor.background": "#A1BCCF",
+		"editor.foreground": "#a1cfcb",
+        "list.activeSelectionIconForeground": "#faeded",
+		"sideBar.background": "#90b0c6",
 		"sideBar.foreground": "#0D5EA0",
 		"activityBar.background": "#A1BCCF",
 		"activityBar.foreground": "#ffffff"
@@ -20,7 +20,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#747474"
+				"foreground": "#e9e9e9"
 			}
 		},
 		{
@@ -148,7 +148,7 @@
 			"name": "Strings",
 			"scope": "string",
 			"settings": {
-				"foreground": "#89629b"
+				"foreground": "#4b83cd"
 			}
 		},
 		{
@@ -228,7 +228,7 @@
 				"punctuation.definition.entity"
 			],
 			"settings": {
-				"foreground": "#AB6526"
+				"foreground": "#ff0000"
 			}
 		},
 		{
@@ -250,7 +250,7 @@
 				"support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#6d5348"
+				"foreground": "#a08a79"
 			}
 		},
 		{

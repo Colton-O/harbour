@@ -13,7 +13,9 @@
 		"panel.border": "#0D5EA0",
 		"editorGroupHeader.tabsBackground": "#a8cdd4",
 		"editorGroupHeader.tabsBorder": "#ffffff",
-		"tab.activeBackground": "#70aeb6"
+		"tab.activeBackground": "#70aeb6",
+		"terminal.background": "#0D5EA0",
+		"terminal.foreground": "#ffffff"
 
 		
 				//test 
@@ -27,7 +29,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#e9e9e9"
+				"foreground": "#c5c7ce"
 			}
 		},
 		{
